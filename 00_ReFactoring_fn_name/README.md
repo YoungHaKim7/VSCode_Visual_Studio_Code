@@ -11,11 +11,11 @@
     <td colspan="7" align="center">리팩터링 이름 비교</td>
     </tr>
     <tr align="center">
-        <td width=10px>책(절)</td>
+        <td width=6px>책(절)</td>
         <td>한글</td>
         <td>영어Eng.</td>
-        <td>ItelliJ IDEA(자바)</td>
-        <td>Eclipse이클립스(자바)</td>
+        <td>ItelliJ IDEA<br>(자바)</td>
+        <td>Eclipse이클립스<br>(자바)</td>
         <td>VS 2019(C#)</td>
         <td>ReSharper(C#)</td>
     </tr>

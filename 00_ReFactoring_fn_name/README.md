@@ -11,7 +11,7 @@
     <td colspan="7" align="center">리팩터링 이름 비교</td>
     </tr>
     <tr align="center">
-        <td width=6px>책(절)</td>
+        <td>책(절)</td>
         <td>한글</td>
         <td>영어Eng.</td>
         <td>ItelliJ IDEA<br>(자바)</td>

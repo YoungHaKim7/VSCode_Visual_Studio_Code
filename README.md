@@ -1,3 +1,9 @@
+# VSCode Extensions 잘 정리됨
+
+https://viatsko.github.io/awesome-vscode/
+
+<hr>
+
 # VSCode_Visual_Studio_Code
 좋은 기능들 정리
 - Rust&Python_etc.☆☆__VSCode Vs Pycharm(파이참)Vs Visual Studio(비주얼스튜디오)자주 쓰는 단축키 비교☆☆(MacOS,Win)

@@ -17,6 +17,8 @@ https://viatsko.github.io/awesome-vscode/
 - Code Spell Checker | Street Side Software
   - https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
 
+- VSCode Insert Unicode(Extensions)유니코드 넣기
+  - https://marketplace.visualstudio.com/items?itemName=brunnerh.insert-unicode
 # Snippets 활용방법
 - Snippets in Visual Studio Code https://code.visualstudio.com/docs/editor/userdefinedsnippets
 - 스니펫 생성기 굿 https://snippet-generator.app/

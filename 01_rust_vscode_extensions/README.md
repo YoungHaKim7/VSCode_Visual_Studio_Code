@@ -11,6 +11,21 @@
     - Show message in status bar
       - https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
 
+- Even Better TOMLPreview https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml
+  - Fully-featured TOML support
+  - Features
+    - TOML version 1.0.0 support
+    - Syntax highlighting
+    - Additional Syntax Colors
+    - Semantic highlighting
+    - Validation
+    - Folding
+    - Symbol tree and navigation
+    - Refactors
+    - Renaming
+    - Formatting
+    - Completion and Validation with JSON Schema
+
 - Rust VS Code Test Explorer
   - Rust Test Explorer for VS Code that enables viewing and running your Rust tests from the VS Code Sidebar
     - https://marketplace.visualstudio.com/items?itemName=swellaby.vscode-rust-test-adapter

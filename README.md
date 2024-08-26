@@ -19,6 +19,26 @@ https://viatsko.github.io/awesome-vscode/
 
 - VSCode Insert Unicode(Extensions)유니코드 넣기
   - https://marketplace.visualstudio.com/items?itemName=brunnerh.insert-unicode
+
+- 라이브러리 버젼 컨트롤(dependi)
+  - https://github.com/filllabs/dependi
+    - Rust:
+        - Documentation: https://doc.rust-lang.org/
+        - Package Repository (crates.io): https://crates.io/
+    - Go:
+        - Documentation: https://golang.org/doc/
+        - Package Repository (pkg.go.dev): https://pkg.go.dev/
+    - JavaScript (NPM):
+        - Documentation: https://docs.npmjs.com/
+        - Package Repository (npm): https://www.npmjs.com/
+    - Python:
+        - Documentation: https://docs.python.org/3/
+        - Package Repository (PyPI): https://pypi.org/
+    - PHP:
+        - Documentation: https://www.php.net/docs.php
+        - Package Repository (Packagist): https://repo.packagist.org
+
+
 # Snippets 활용방법
 - Snippets in Visual Studio Code https://code.visualstudio.com/docs/editor/userdefinedsnippets
 - 스니펫 생성기 굿 https://snippet-generator.app/

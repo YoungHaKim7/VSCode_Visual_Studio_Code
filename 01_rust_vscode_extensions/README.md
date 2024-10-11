@@ -40,3 +40,10 @@
 - Rust VS Code Test Explorer
   - Rust Test Explorer for VS Code that enables viewing and running your Rust tests from the VS Code Sidebar
     - https://marketplace.visualstudio.com/items?itemName=swellaby.vscode-rust-test-adapter
+
+- ToDo Tree
+  - https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
+
+- 소개 영상
+  - Ultimate VS Code setup for Rust development (2025) | LGR
+    - https://youtu.be/ZhedgZtd8gw?si=FeGdVNd5-OWniAu0

@@ -34,8 +34,9 @@
     - Formatting
     - Completion and Validation with JSON Schema
 
-- crates https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates
-  - Helps Rust developers managing dependencies with Cargo.toml.
+- Dependi
+  - Empowers developers to efficiently manage dependencies and address vulnerabilities in Rust, Go, JavaScript, Typescript, PHP and Python projects.
+    - https://marketplace.visualstudio.com/items?itemName=fill-labs.dependi
 
 - Rust VS Code Test Explorer
   - Rust Test Explorer for VS Code that enables viewing and running your Rust tests from the VS Code Sidebar

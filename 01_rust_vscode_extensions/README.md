@@ -46,5 +46,5 @@
   - https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
 
 - 소개 영상
-  - Ultimate VS Code setup for Rust development (2025) | LGR
+  - (241011)Ultimate VS Code setup for Rust development (2025) | LGR
     - https://youtu.be/ZhedgZtd8gw?si=FeGdVNd5-OWniAu0

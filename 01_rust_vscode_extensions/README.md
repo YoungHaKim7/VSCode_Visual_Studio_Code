@@ -34,7 +34,7 @@
     - Formatting
     - Completion and Validation with JSON Schema
 
-- Dependi
+- Dependi(예전 crates에서 업그레이드됨)
   - Empowers developers to efficiently manage dependencies and address vulnerabilities in Rust, Go, JavaScript, Typescript, PHP and Python projects.
     - https://marketplace.visualstudio.com/items?itemName=fill-labs.dependi
 

@@ -45,6 +45,11 @@ https://viatsko.github.io/awesome-vscode/
         - Package Repository (Packagist): https://repo.packagist.org
 
 
+- JavaScript
+  - Debugging(Visualize data structures and algorithms)
+    - https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer
+      - 소개영상 https://youtube.com/shorts/uehCDW1fxUw?si=A8zmc1zrfUPymxbG
+
 # Snippets 활용방법
 - Snippets in Visual Studio Code https://code.visualstudio.com/docs/editor/userdefinedsnippets
 - 스니펫 생성기 굿 https://snippet-generator.app/

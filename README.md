@@ -58,3 +58,8 @@ https://viatsko.github.io/awesome-vscode/
 # Gitlab웹으로 프로젝트 만들고, VSCode구현된 웹에서 코딩하기
 
 - https://www.reddit.com/r/gitlab/comments/161n1mm/gitlab_and_vs_code/?rdt=53183
+
+<hr />
+
+# vscode(keybindings)
+- https://code.visualstudio.com/docs/getstarted/keybindings

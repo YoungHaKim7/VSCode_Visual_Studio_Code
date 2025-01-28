@@ -4,6 +4,17 @@
 
 <hr>
 
+# VScode(Command)
+
+```
+# 파일 빠르게 이동
+Go to file
+
+# 터미널창 반으로 쪼개서 절반 쓰기
+Terminal: Create New Terminal in Editor Area to the Side
+
+```
+
 # VSCode Extensions 잘 정리됨
 
 https://viatsko.github.io/awesome-vscode/

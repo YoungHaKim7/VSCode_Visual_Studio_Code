@@ -10,7 +10,7 @@
 # 파일 빠르게 이동
 Go to file
 
-# 터미널창 반으로 쪼개서 절반 쓰기
+# 터미널창 VSCode에디타 창 반으로 쪼개서 절반 쓰기(:vs느낌)
 Terminal: Create New Terminal in Editor Area to the Side
 
 ```

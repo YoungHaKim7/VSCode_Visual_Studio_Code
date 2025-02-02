@@ -15,6 +15,19 @@ Terminal: Create New Terminal in Editor Area to the Side
 
 ```
 
+# VSCode(Copilot관련)
+```
+# 채팅처럼 이야기 하면서
+Open Copilot Edits
+
+# Copilot이 디버깅 해줌
+Developer: Github Copilot Chat Diagnostics
+
+# 이건 뭔가 설명해 주는데 잘 모르겠음
+Github Copilot: Open Completions Panel
+```
+
+
 # VSCode Extensions 잘 정리됨
 
 https://viatsko.github.io/awesome-vscode/

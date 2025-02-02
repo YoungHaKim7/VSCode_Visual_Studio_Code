@@ -20,11 +20,12 @@ Terminal: Create New Terminal in Editor Area to the Side
 # 채팅처럼 이야기 하면서
 Open Copilot Edits
 
-# Copilot이 디버깅 해줌
-Developer: Github Copilot Chat Diagnostics
+# Copilot이 디버깅 해줌(Diagnostics처럼 고치해주는게 좋다.)
+Github Copilot: Open Completions Panel
 
 # 이건 뭔가 설명해 주는데 잘 모르겠음
-Github Copilot: Open Completions Panel
+
+Developer: Github Copilot Chat Diagnostics
 ```
 
 

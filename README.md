@@ -75,6 +75,8 @@ https://viatsko.github.io/awesome-vscode/
         - Documentation: https://www.php.net/docs.php
         - Package Repository (Packagist): https://repo.packagist.org
 
+- PHP
+  - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
 
 - JavaScript
   - Debugging(Visualize data structures and algorithms)

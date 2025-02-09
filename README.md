@@ -42,6 +42,12 @@ https://viatsko.github.io/awesome-vscode/
 
 # Extensions
 
+- SQL
+  - MySQL | Wejian Chen
+    - Database client for Visual Studio Code, supports manager MySQL/MariaDB, PostgreSQL, SQLite, Redis, ClickHouse, Kafka, MongoDB, Snowflake, and ElasticSearch, and works as an SSH client, boost your maximum productivity!
+  - https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2
+    - https://github.com/cweijan/vscode-database-client 
+
 - Error Lens | Alexander
   - Improve highlighting of errors, warnings and other language diagnostics.
     - https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens

@@ -13,6 +13,10 @@ Go to file
 # 터미널창 VSCode에디터 창 반으로 쪼개서 절반 쓰기(:vs느낌)
 Terminal: Create New Terminal in Editor Area to the Side
 
+
+# ~~~~ Symbol 관련
+Go to Symbol in Editor
+
 ```
 
 # VSCode(Copilot관련)

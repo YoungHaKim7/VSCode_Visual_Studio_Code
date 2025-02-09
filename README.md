@@ -100,3 +100,6 @@ https://viatsko.github.io/awesome-vscode/
 
 # vscode(keybindings)
 - https://code.visualstudio.com/docs/getstarted/keybindings
+
+# VSCode키 세팅할때 알아야할 원리
+- https://code.visualstudio.com/docs/getstarted/keybindings#_when-clause-contexts

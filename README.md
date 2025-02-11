@@ -46,6 +46,10 @@ https://viatsko.github.io/awesome-vscode/
 
 # Extensions
 
+- AI
+  - [Gihuhub.Copilot너무 유명한.](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+  - [러스트로 만든 TabbyAI](https://marketplace.visualstudio.com/items?itemName=TabbyML.vscode-tabby)
+
 - SQL
   - MySQL | Wejian Chen
     - Database client for Visual Studio Code, supports manager MySQL/MariaDB, PostgreSQL, SQLite, Redis, ClickHouse, Kafka, MongoDB, Snowflake, and ElasticSearch, and works as an SSH client, boost your maximum productivity!

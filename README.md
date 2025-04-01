@@ -27,8 +27,10 @@ Open Copilot Edits
 # Copilot이 디버깅 해줌(Diagnostics처럼 고치해주는게 좋다.)
 Github Copilot: Open Completions Panel
 
-# 이건 뭔가 설명해 주는데 잘 모르겠음
+# 여러 개의 자동완성 제안을 생성했다면 다른 제안은 어떤지 살펴 볼수 있다.
+Open Completions Panel
 
+# 이건 뭔가 설명해 주는데 잘 모르겠음
 Developer: Github Copilot Chat Diagnostics
 ```
 
